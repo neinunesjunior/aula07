@@ -1,0 +1,9 @@
+Portfolio-pessoal
+   Index.html ------------ Página inicial
+   Sobre.html --------- Página Sobre Mim
+   Formacao.html --------- Página Formação Acadêmica
+   Portfolio.html -------- Página Portfólio
+   Contato.html ---------- Página de Contato
+   Styles.css ------------ Arquivo CSS principal
+   Script.js ------------- Arquivo JavaScript
+   Imagens --------------- Pasta para imagens
